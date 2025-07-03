@@ -1,0 +1,9 @@
+1- Lung cancer: the file called "model_components"
+
+https://drive.google.com/drive/folders/1P7VoTfGBNB3Q4sJJIrwQs2pCQ3YjWmUE
+
+
+
+2- lung diseases: the file called "voting.pkl" 
+
+https://drive.google.com/drive/folders/1P7VoTfGBNB3Q4sJJIrwQs2pCQ3YjWmUE
