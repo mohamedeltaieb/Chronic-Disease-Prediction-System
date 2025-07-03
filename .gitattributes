@@ -1,3 +1,4 @@
 models/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/*.pk filter=lfs diff=lfs merge=lfs -text
 notebooks/*.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Office/Chronic-Disease-Prediction-System/models/lung[[:space:]]cancer filter=lfs diff=lfs merge=lfs -text
