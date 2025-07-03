@@ -154,7 +154,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Project Team:
 
 
-Habiba Ahmed Hassan (AI Engineer)
+
+
+Habiba Ahmed Hassan (AI Engineer) [Habiba480][https://github.com/Habiba480/Habiba480]
+
+
+Mohamed Mostafa Ahmed Eltaieb (AI Engineer)
 
 
 Mohamed Elsayed Youssef (Backend)
@@ -163,13 +168,12 @@ Mohamed Elsayed Youssef (Backend)
 Mohamed Khalid Mohamed (Devops and Backend)
 
 
-Mohamed Mostafa Ahmed Eltaieb (AI Engineer)
-
-
 Tasneem Mostafa Mohamed (Frontend)
 
 
 Zienab Youssef Abdel Kareem (Frontend)
+
+
 
 
 
