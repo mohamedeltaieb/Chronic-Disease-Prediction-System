@@ -103,8 +103,8 @@ To explore the models and notebooks:
 Clone the repository:
 
 
-git clone https://github.com/YourUsername/YourRepoName.git
-cd YourRepoName
+git clone https://github.com/mohamedeltaieb/Chronic-Disease-Prediction-System.git
+cd Chronic-Disease-Prediction-System
 
 Install dependencies:
 It's recommended to create a virtual environment.
